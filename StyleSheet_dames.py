@@ -1,6 +1,6 @@
 from PyQt5.QtCore import QSize
 #Objets Dames
-th = 1
+th = 0
 with open('theme.txt', 'r') as f:
    th = int(f.read())
    if th>2 : th=0
@@ -36,7 +36,7 @@ style_mark_edges = "color : black ; font-size : 35px ; font: italic large Times 
 
 #Cases vides
 cl = ["189,100%,95%", "30,85%,90%", "332,70%,97%"][th]
-cd = ["219,75%,69%", "356,100%,81%", "291,80%,92%"][th]
+cd = ["219,75%,69%", "356,100%,81%", "330,85%,86%"][th]
 style_case_empty_light = f"background-color : hsv({cl})"
 style_case_empty_dark = f"background-color : hsv({cd})"
 
