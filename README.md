@@ -11,3 +11,12 @@ Library PyQt5
 4.  Capture when possible is mandatory : ALL pieces not able to capture are darkened leaving you the way to capture it
 5.  When a piece reach the end of the opponent team, the Pawn automatically become a Queen. A Queen has a better range of move. (Pawns are not blocked when she can capture).[img3]
 6.  Multi-capture is not implemented.
+
+## How to win
+First player who capture opponents pawns win the game.
+
+## How to run
+Run the file * *Jeu de Dames.py* * file along with all other files in the same folder
+
+## Context
+This project was created as part of my studies in the 2nd year of my engineer school ESME Sudria in the major "Innovation".
