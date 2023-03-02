@@ -11,12 +11,9 @@ text_how_to_play = "Règles du jeu :"\
 
 text_about_us = "Qui sommes-nous ?\n"\
 "Ce jeu a été créé par deux étudiants de l'ESME Sudria. "\
-"Dans cette école ils sont considérés comme des génies indétrônables qui, "\
-" en plus de posséder un intellect supérieur, possèdent une vitesse de fou et des réflexes"\
-" identiques à cette vitesse."\
-"\nMais assez parlez de nous, nous espérons que vous appréciez ce jeu qui a"\
-" demandé de nombreuses heures de travail.\nQue le sort vous soit favorable."\
-"\n                                (texte entièrement écrit par Adil Anejjar)"
+"\nNous espérons que vous appréciez ce jeu qui a"\
+" demandé de nombreuses heures de travail."\
+"\n                                ANEJJAR Adil & WAIDI Rayane"
 
 text_u = "Vous allez devoir relancer l'application pour voir les éventuelles modifications"
 
