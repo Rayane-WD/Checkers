@@ -15,9 +15,12 @@ Library PyQt5
 
 3. The second player does the same.
 4. Capturing when possible is mandatory: ALL pieces that cannot be captured are darkened leaving you the possibility of capturing an opponent's pawn
+
+![img3_capture](/img/img3_capture.jpg)
+
 5. When a piece reaches the end of the opponent's board, the pawn automatically becomes a queen. A queen has a better range of motion. (Pawns are not blocked when she can capture).
 
-![img3_queen_move](/img/img3_queen_move.jpg)
+![img4_queen_move](/img/img4_queen_move.jpg)
 
 6.  Multi-capture is not implemented.
 
