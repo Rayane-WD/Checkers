@@ -33,6 +33,7 @@ Run the *Jeu de Dames.py* file along with all other files in the same folder.
 ## Possible improvements
 - Implement Multi-capture
 - Timer for each turn
+- PvE mode
 
 
 ## Context
