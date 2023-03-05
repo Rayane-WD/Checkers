@@ -28,7 +28,7 @@ Library PyQt5
 First player who capture all opponents pawns win the game.
 
 ## How to run
-Run the *Jeu de Dames.py* file along with all other files in the same folder.
+Run the *Jeu_de_Dames.py* file along with all other files in the same folder.
 
 ## Possible improvements
 - Implement Multi-capture
