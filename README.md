@@ -20,7 +20,7 @@ Library PyQt5
 
 5. When a piece reaches the end of the opponent's board, the pawn automatically becomes a queen. A queen has a better range of motion. (Pawns are not blocked when she can capture).
 
-<img src="img/img5_queen_move.jpg" alt="img5_queen_move" width="300" height="250">
+<img src="img/img5_queen_move.jpg" alt="img5_queen_move" width="280" height="250">
 
 6.  Multi-capture is not implemented.
 
