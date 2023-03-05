@@ -7,7 +7,7 @@ Library PyQt5
 ## How to play
 1.  Click on the "Mode PvP" button to play against another humman player.
 
- <img src="img/img1_home_screen.jpg" alt="img1_home_screen" width="50" height="50">  ![img2_board](/img/img2_board.jpg)
+ <img src="img/img1_home_screen.jpg" alt="img1_home_screen" width="500" height="500">  ![img2_board](/img/img2_board.jpg)
 
 2.  First player (White) take turns moving one checker per turn. A piece can move diagonally towards the opposing team. It cannot move backwards towards it own home space. Click on piece of your team to select a it, click on an arrow then displayed to confirm where you wish to play.
 
