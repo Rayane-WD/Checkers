@@ -41,4 +41,4 @@ Run the *Jeu_de_Dames.py* file along with all other files in the same folder.
 
 ## Context
 This project was created as part of my studies in the 2nd year of my engineer school ESME Sudria.</br>
-***Rayane WAIDI*** - [His Linkdin](https://www.linkedin.com/in/rayane-waidi/).
+***Rayane WAIDI*** - [My Linkdin](https://www.linkedin.com/in/rayane-waidi/).
